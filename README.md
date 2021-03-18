@@ -3,5 +3,7 @@
 _This repo of assignment is a part of MFE5210 algo-trading in CUHKSZ._  
 _And the ddl is 3/20/2021 23：59._  
 
-Here the pdf is a research report in "degree of order books" from soochow securities.  
+Here the pdfs are:  
+1. a research report in "degree of order books" from soochow securities.
+2. a research report in "style rotation" from founder securities.
 
