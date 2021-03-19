@@ -7,3 +7,4 @@ Here the pdfs are:
 1. a research report in "degree of order books" from soochow securities.
 2. a research report in "style rotation" from founder securities.
 
+actually choose pdf2 to present
